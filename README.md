@@ -6,19 +6,19 @@ Overview of Blockspace its demand, pricing, and trading
 ## Trading Blockspace 
 Some resources you might find interesting 
 
-https://amirz.substack.com/p/where-the-metal-is-buried
-https://alkimiya.io/
-https://www.aniccaresearch.tech/blog/consensus-capital-markets
-https://www.aniccaresearch.tech/blog/the-intelligent-bitcoin-miner-part-i
-https://www.aniccaresearch.tech/blog/the-intelligent-bitcoin-miner-pt-ii
-https://www.aniccaresearch.tech/blog/introducing-alkimiya-protocol
-https://www.aniccaresearch.tech/blog/ethereum-blockspace-who-gets-what-and-why
-https://www.aniccaresearch.tech/blog/the-alchemy-of-hashpower-part-ii
-https://www.aniccaresearch.tech/blog/bitcoin-minings-three-body-problem
-https://www.aniccaresearch.tech/blog/the-alchemy-of-hashpower-part-i
-https://medium.com/capriole/bitcoins-production-cost-88d889462ea7
-https://medium.com/capriole/the-energy-standard-b726edeed588
-https://medium.com/capriole/bitcoin-value-energy-equivalence-6d00d1baa34a
+- https://amirz.substack.com/p/where-the-metal-is-buried
+- https://alkimiya.io/
+- https://www.aniccaresearch.tech/blog/consensus-capital-markets
+- https://www.aniccaresearch.tech/blog/the-intelligent-bitcoin-miner-part-i
+- https://www.aniccaresearch.tech/blog/the-intelligent-bitcoin-miner-pt-ii
+- https://www.aniccaresearch.tech/blog/introducing-alkimiya-protocol
+- https://www.aniccaresearch.tech/blog/ethereum-blockspace-who-gets-what-and-why
+- https://www.aniccaresearch.tech/blog/the-alchemy-of-hashpower-part-ii
+- https://www.aniccaresearch.tech/blog/bitcoin-minings-three-body-problem
+- https://www.aniccaresearch.tech/blog/the-alchemy-of-hashpower-part-i
+- https://medium.com/capriole/bitcoins-production-cost-88d889462ea7
+- https://medium.com/capriole/the-energy-standard-b726edeed588
+- https://medium.com/capriole/bitcoin-value-energy-equivalence-6d00d1baa34a
 
 ### Selected Reading
 
