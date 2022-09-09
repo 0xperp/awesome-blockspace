@@ -20,6 +20,10 @@ Some resources you might find interesting
 - https://medium.com/capriole/the-energy-standard-b726edeed588
 - https://medium.com/capriole/bitcoin-value-energy-equivalence-6d00d1baa34a
 
+## Building Blockspace
+
+### Order Flow
+
 ### Selected Reading
 
 ### Other
@@ -40,7 +44,16 @@ Some resources you might find interesting
 - [Exploring MEV in the Modular Blockchain Stack](https://docs.google.com/presentation/d/1Qi4Jda2_3l0fpQoJWzm0er8lUwrpKTAz5zSwHUB8ccc/edit#slide=id.g11467f43ce9_1_2600
 - ["Pennying" and Auctions](https://forum.cow.fi/t/pennying-as-a-strategy-to-win-more-auctions-and-how-to-deal-with-it/1093)
 - [Protocol Extractable Vaule](https://github.com/0xNineteen/blog.md/blob/master/mev-v2/index.md)
-
+- [Searching For The Holy Grail: Order Flow Auctions & The Enshrined Builder](https://mirror.xyz/apriori.eth/wiLKgkaN6JBwBDq4E3T_-BZ0OIPhlbIItgJdE3CFAMo)
+- [Decentralizing the builder role](https://hackmd.io/@vbuterin/distributed_builders#/)
+- [Sharding the builder](https://mirror.xyz/0x8abcbb75A07d1609429aCFA9ED36c01733D9fd3E/GfVAwU9-ouCax771IPiLjhrlt8V2znF126j_9eXghDY)
+- [The MEV supply Chain](https://flashbots.mirror.xyz/bqCakwfQZkMsq63b50vib-nibo5eKai0QuK7m-Dsxpo)
+- [Order Flows: Kingmaker of the Block Builders](https://noxx.substack.com/p/order-flows-kingmaker-of-the-block)
+- [Flashbots: Kings of The Mempool](https://noxx.substack.com/p/flashbots-kings-of-the-mempool?utm_source=profile&utm_medium=reader2)
+- [Flashbots: Frontrunning the MEV crisis](https://ethresear.ch/t/flashbots-frontrunning-the-mev-crisis/8251)
+- [Can First Come First Served-Based Transaction Ordering Prevent Front-Running](https://writings.flashbots.net/research/fcfs-and-front-running/)
+- [Decentralizing the Builder Role](https://joncharbonneau.substack.com/p/decentralizing-the-builder-role?sd=pf)
+- [Block Building Post Merge](https://docs.google.com/presentation/d/1gU3sBviud5WKrbytAnKa8gijVG_uC8weJ8KXfy6u30U/edit#slide=id.p)
 
 ### Threads
 - [Private Orderflow and the Block Builder Market](https://twitter.com/jon_charb/status/1562916372505665536)
