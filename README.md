@@ -23,6 +23,8 @@ Some resources you might find interesting
 ## Building Blockspace
 
 ### Order Flow
+- [Order Flow has a Solution](https://t.co/pA6IcDPFfG?ssr=true](https://docs.google.com/presentation/d/1RzmbsdgIfPCioZh2_OT7mdtXkCSjlX3hyc9GFh9-vXo/edit#slide=id.p)
+- [Order flow, auctions and centralisation I: a warning](https://collective.flashbots.net/t/order-flow-auctions-and-centralisation-i-a-warning/258)
 
 ### Selected Reading
 
