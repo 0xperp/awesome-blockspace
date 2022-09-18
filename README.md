@@ -27,6 +27,7 @@ Some resources you might find interesting
 - [Order flow, auctions and centralisation I: a warning](https://collective.flashbots.net/t/order-flow-auctions-and-centralisation-i-a-warning/258)
 
 ### Selected Reading
+- [The future of maximal extractable value (MEV)](https://fbifemboy.substack.com/p/the-future-of-maximal-extractable)
 
 ### Other
 
