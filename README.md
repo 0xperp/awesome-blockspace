@@ -1,7 +1,5 @@
 # Awesome Blockspace
-Overview of Blockspace its demand, pricing, and trading
-
-## Demand for Blockspace 
+Overview of Blockspace its demand, pricing, and trading along with selected reading, threads, and various code repositories
 
 ## Trading Blockspace 
 Some resources you might find interesting 
@@ -21,16 +19,46 @@ Some resources you might find interesting
 - https://medium.com/capriole/bitcoin-value-energy-equivalence-6d00d1baa34a
 
 ## Building Blockspace
+- [Introducing Zenith](https://meka.tech/writing/introducing-zenith-the-first-maximum-aggregated-value-mav-market-for-the-interchain-697b5298-75d5-4cdd-9e3b-ae1d0ffc36c1)
+    - [Documentation](https://meka.tech/zenith)
+- [Arbitrum HybridTransaction Ordering Policy](https://research.arbitrum.io/t/hybrid-transaction-ordering-policy/155)
+    - [Initial Transaction Ordering Policy](https://research.arbitrum.io/t/transaction-ordering-policy/127)
+
+
+### Various Repositories
+- [zeromev-geth](https://github.com/zeromev/zeromev-geth)
+
 
 ### Order Flow
-- [Order Flow has a Solution](https://t.co/pA6IcDPFfG?ssr=true](https://docs.google.com/presentation/d/1RzmbsdgIfPCioZh2_OT7mdtXkCSjlX3hyc9GFh9-vXo/edit#slide=id.p)
+- [Order Flow has a Solution](https://docs.google.com/presentation/d/1RzmbsdgIfPCioZh2_OT7mdtXkCSjlX3hyc9GFh9-vXo/edit#slide=id.p)
 - [Order flow, auctions and centralisation I: a warning](https://collective.flashbots.net/t/order-flow-auctions-and-centralisation-i-a-warning/258)
 
 ### Selected Reading
+- [MEV Manifesto from Delphi (IPFS PDF)](https://gateway.pinata.cloud/ipfs/QmWoKtHLQdRxLekVjoei9Lf4ez2vyKxoz1U7KExTX6bZtX)
 - [The future of maximal extractable value (MEV)](https://fbifemboy.substack.com/p/the-future-of-maximal-extractable)
+- [Neutralizing the Dark Forrest](https://pseudotheos.mirror.xyz/i7sv9SFb1e64W2ax_kYwp68O0M2NdACtOu9Hj12SPP8)
+- [Unbundling Propser Builder Seperation](https://ethresear.ch/t/unbundling-pbs-towards-protocol-enforced-proposer-commitments-pepc/13879?u=barnabe)
+- [Law and Regulation vs. MEV Extraction](https://collective.flashbots.net/t/law-and-regulation-vs-mev-extraction/477)
+- [Multi Block MEV](https://collective.flashbots.net/t/multi-block-mev/457)
+- [Order flow, auctions and centralisation I: a warning](https://collective.flashbots.net/t/order-flow-auctions-and-centralisation-i-a-warning/258)
+- [Quantifying MEV on L2s](https://collective.flashbots.net/t/quantifying-mev-on-l2s/450/4)
+- [How much can we constrain builders without bringing back heavy burdens to proposers?]((https://ethresear.ch/t/how-much-can-we-constrain-builders-without-bringing-back-heavy-burdens-to-proposers/13808))
+
+### Blockspace/MEV Statistics
+- [Flashbots Explore](https://explore.flashbots.net)
+- [Metablock](https://mev.metablock.dev/1)
+- [Bundle Explorer](https://flashbots-explorer.marto.lol)
+- [Jito (Solana) MEV Dashboard](https://jito.retool.com/embedded/public/7e37389a-c991-4fb3-a3cd-b387859c7da1)
+- [Skip (Cosmos) MEV Dashboard](https://satellite.skip.money)
+
+### Blockspace/MEV Funds and Trading Firms
+- Ergonia
+- Project Blanc
+- Bluefoot
 
 ### Other
 
+- [Selceted Proposer Builder Seperation Links](https://notes.ethereum.org/@domothy/pbs_links)
 - https://research.thetie.io/mev-maximal-extractable-value/
 - https://twitter.com/Sky_ranker/status/1564579705738518534
 - https://twitter.com/TheTIEIO/status/1564694786602405895
@@ -58,7 +86,7 @@ Some resources you might find interesting
 - [Decentralizing the Builder Role](https://joncharbonneau.substack.com/p/decentralizing-the-builder-role?sd=pf)
 - [Block Building Post Merge](https://docs.google.com/presentation/d/1gU3sBviud5WKrbytAnKa8gijVG_uC8weJ8KXfy6u30U/edit#slide=id.p)
 
-### Threads
+### Various Threads
 - [Private Orderflow and the Block Builder Market](https://twitter.com/jon_charb/status/1562916372505665536)
 - https://twitter.com/The_Babylonians/status/1567227558688587777
 
@@ -67,4 +95,4 @@ Some resources you might find interesting
 - [Awesome MEV](https://github.com/Dogetoshi/MEV)
 - [Awesome-MEV](https://github.com/0xemperor/Awesome-MEV)
 - [Awesome MEV-Boost](https://github.com/thegostep/awesome-mev-boost)
-- [Awesome MEV for Searchers](https://github.com/HilliamT/awesome-mev-searching
+- [Awesome MEV for Searchers](https://github.com/HilliamT/awesome-mev-searching)
