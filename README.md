@@ -53,6 +53,8 @@ Overview of Blockspace its demand, pricing, and trading along with selected read
 - [Alymiya](https://alkimiya.io/)
     - [Consensus Capital Markets](https://www.aniccaresearch.tech/blog/consensus-capital-markets)
     - [Introducing Alkimiya](https://www.aniccaresearch.tech/blog/introducing-alkimiya-protocol)
+- [Interchain Scheduler (Cosmos Hub)](https://gateway.pinata.cloud/ipfs/QmWXkzM74FCiERdZ1WrU33cqdStUK9dz1A8oEvYcnBAHeo)
+    - Blockspace market for ICS consumer chains
 
 ### Selected Reading
 - [MEV Manifesto from Delphi (IPFS PDF)](https://gateway.pinata.cloud/ipfs/QmWoKtHLQdRxLekVjoei9Lf4ez2vyKxoz1U7KExTX6bZtX)
