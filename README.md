@@ -64,7 +64,7 @@ Overview of Blockspace its demand, pricing, and trading along with selected read
 - [Unbundling Propser Builder Seperation](https://ethresear.ch/t/unbundling-pbs-towards-protocol-enforced-proposer-commitments-pepc/13879?u=barnabe)
 - [Law and Regulation vs. MEV Extraction](https://collective.flashbots.net/t/law-and-regulation-vs-mev-extraction/477)
 - [Multi Block MEV](https://collective.flashbots.net/t/multi-block-mev/457)
-- [How much can we constrain builders without bringing back heavy burdens to proposers?]((https://ethresear.ch/t/how-much-can-we-constrain-builders-without-bringing-back-heavy-burdens-to-proposers/13808))
+- [How much can we constrain builders without bringing back heavy burdens to proposers?](https://ethresear.ch/t/how-much-can-we-constrain-builders-without-bringing-back-heavy-burdens-to-proposers/13808)
 
 ### Random, Unsorted, Other
 - [Selected Proposer Builder Seperation Links](https://notes.ethereum.org/@domothy/pbs_links)
