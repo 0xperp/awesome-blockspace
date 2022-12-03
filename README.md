@@ -50,7 +50,7 @@ Overview of Blockspace its demand, pricing, and trading along with selected read
 
 ### Trading Blockspace 
 - [Ethereum Blockspace who gets what and why](https://www.aniccaresearch.tech/blog/ethereum-blockspace-who-gets-what-and-why)
-- [Alymiya](https://alkimiya.io/)
+- [Alkimiya](https://alkimiya.io/)
     - [Consensus Capital Markets](https://www.aniccaresearch.tech/blog/consensus-capital-markets)
     - [Introducing Alkimiya](https://www.aniccaresearch.tech/blog/introducing-alkimiya-protocol)
 - [Interchain Scheduler (Cosmos Hub)](https://gateway.pinata.cloud/ipfs/QmWXkzM74FCiERdZ1WrU33cqdStUK9dz1A8oEvYcnBAHeo)
